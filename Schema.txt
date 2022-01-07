@@ -1,0 +1,3 @@
+course#course_id#int#course_name#str
+department#dep_id#int#dep_name#str
+student#stud_roll_num#int#stud_name#str#stud_CGPA#int

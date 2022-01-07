@@ -1,0 +1,10 @@
+create table = create table student ( roll int , name str )
+Drawback:
+    1. create the table with same name - name is already used by an existing object
+    2. do not create table without attribute
+        a. create table table_name - missing left parenthesis
+        b. create table table_name() - invalid indentifier
+    3. Drop table
+    4. int update and delete where clause only one where condition is applicable
+    5. insert data in correct direction
+    6. before inserting data check that data is avaialable or not
